@@ -1,0 +1,9 @@
+{
+    "name": "react-native-vcall",
+    "version": "0.0.1",
+    "main": "src/VCallReactNative.tsx",
+    "devDependencies": {
+        "react-native-webrtc": "^124.0.6",
+        "typescript": "^5.8.3"
+    }
+}
